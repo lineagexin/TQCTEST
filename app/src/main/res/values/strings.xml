@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test01</string>
+    <string name="TV1">整存整付試算:</string>
+    <string name="TV2">本金(NT$):</string>
+    <string name="TV3">年利率(%):</string>
+    <string name="TV4">存款期數:</string>
+    <string name="BTN">計算本利和</string>
+</resources>
